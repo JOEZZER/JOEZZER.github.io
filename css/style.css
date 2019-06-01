@@ -1,0 +1,13 @@
+
+#foo{
+	background-color: yellow;
+	width: 100%;
+}
+.row video{
+	width: 20% !important;
+	max-height: 30% !important;
+}
+/*.vid .row .container #vidtran {
+	width: 20% !important;
+	height: 25% !important;
+}*/
